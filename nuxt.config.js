@@ -36,8 +36,7 @@ export default {
   modules: [],
   target: "static",
   router: {
-    // base: '/<repository-name>/'
-    base: "./",
+    base: "/<Blog-app>/",
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
